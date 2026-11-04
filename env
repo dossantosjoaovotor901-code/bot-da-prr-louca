@@ -1,0 +1,17 @@
+# Token novo em https://www.haxball.com/headlesstoken (vale para uma abertura de sala)
+HB_TOKEN=
+
+# Bandeira/coordenadas na lista de salas (opcional)
+GEO_CODE=br
+GEO_LAT=-23.55
+GEO_LON=-46.63
+
+# Fuso horário dos logs
+TZ=America/Sao_Paulo
+
+WEBHOOK_ROOM=https://discord.com/api/webhooks/1478457507482701884/lF28074PQTrV8QtCAV5AuL1VmNUROsZmrIjYwA3OkNfrasuwlW_8p-WA--RvHdj7a-Kq
+WEBHOOK_GAME=https://discord.com/api/webhooks/1478458766272893008/Gc64obAXWabezl1R0mdaBe2-ElEijedDuJvoHKiQWJHMjE7LN9AMpvRUPpx9ucqK2Nzg
+WEBHOOK_KICK=https://discord.com/api/webhooks/1484966659566338089/QR_Wma9vixyFoAm9nWS-W8xN6jAusb-qBh8ZKlkEDGxGrGmKYmsT0YRVQ3CvEGN2Xrcg
+WEBHOOK_LINK=https://discord.com/api/webhooks/1478457138727751691/7RATULttZugbFywFryl3Im8wi5ZU_9QIW2R94fp6I4ZlSiNWq5bl6TPn733k4c3Ioc5x
+WEBHOOK_ENTRADA=https://discord.com/api/webhooks/1478457735979860170/S_s5ayR9E5_-hhuj_x5xgXbpTFFzpnD0AqgQxZhu0iX7Fthi2zPbO5dGOZ4gOvWk6l1s
+WEBHOOK_MASTER=https://discord.com/api/webhooks/1484966580906627103/G4KTGZ1wu_I_iTgWd3ici0fwmGayXwOBN5814OFn3qk6Fej61e-dYA3bJw7mo1KBHvgy

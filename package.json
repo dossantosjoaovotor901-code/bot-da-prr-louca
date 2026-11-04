@@ -1,0 +1,13 @@
+{
+  "name": "futsal-dos-cornos",
+  "version": "1.0.0",
+  "private": true,
+  "main": "cornos.js",
+  "scripts": {
+    "start": "node --env-file=.env cornos.js"
+  },
+  "engines": { "node": ">=20.6" },
+  "dependencies": {
+    "node-haxball": "^2.3.1"
+  }
+}
